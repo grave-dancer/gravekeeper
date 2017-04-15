@@ -29,7 +29,7 @@ No Special Phone Required: This will work with prehistoric cellphones.
 =====================================================================================
 
 The term "phreaking" comes from the idea that this is meant to be used with telephony.
-GraveStone allows you to easily perform hardware encryption on any cell phone for protecting conversations.
+Gravekeeper10 allows you to easily perform hardware encryption on any cell phone for protecting conversations.
 
 This, in effect, hides your conversations from surveillance, and possible wiretapping.
 
