@@ -5,7 +5,7 @@ GraveStone's firmware is written in C++ for the MSP430FR59XX series MCU's.
 =====================================================================================
 
 Software Features:
-Open Source Software: Anyone can write and rewrite their own algorithms for it.
+Open Source Software: Anyone can write and rewrite their own algorithm for it.
 
 Embedded Audio Cryptography: Provides fast Hardware-Accelerated AES-256 encryption of audio streams.
 
