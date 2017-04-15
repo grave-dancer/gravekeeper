@@ -1,6 +1,6 @@
-# gravestone10
+# gravekeeper10
 
-GraveStone's firmware is written in C++ for the MSP430FR59XX series MCU's.
+Gravekeeper10's firmware is written in C++ for the MSP430FR59XX series MCU's.
 
 =====================================================================================
 
