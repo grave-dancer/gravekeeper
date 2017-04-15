@@ -1,20 +1,22 @@
-# openphreak
+# gravestone10
 
-OpenPhreak is the software used by GraveStone10, a hardware device. 
-
-https://github.com/grave-dancer/gravestone/
-
-OpenPhreak is written in C++ for the MSP430FR59XX series MCU's.
-I decided to have a seperate repository for it besides the GraveStone repository.
+GraveStone's firmware is written in C++ for the MSP430FR59XX series MCU's.
 
 Software Features:
-Embedded Audio Cryptography: Provides fast AES-256 encryption of audio streams.
+Open Source Software: Anyone can write and rewrite their own algorithms for it.
+Embedded Audio Cryptography: Provides fast Hardware-Accelerated AES-256 encryption of audio streams.
 Embedded Audio Steganography: Provides fast FFT based Audio "Hacking" for data hiding.
 Embedded Audio/Voice Augmentation: Provides fast transformation and filtering of audio streams.
 Embedded Audio Capture/Playback: Can save and play back recorded audio.
 
+Hardware Features:
+Open Source Hardware: Anyone can improve it by rebuilding it with their own hardware.
+Easy to Build: Anyone can build this with a soldering iron, some chips, and a PCB.
+No Software Required on Phone: You don't need to install any encryption software on the phone.
+No Special Phone Required: This will work with prehistoric cellphones.
+
 The term "phreaking" comes from the idea that this is meant to be used with telephony.
-OpenPhreak allows you to easily perform encryption + steganography on any cell phone that supports TRRS jack headphones.
+GraveStone allows you to easily perform hardware encryption on any cell phone for protecting conversations.
 
 This, in effect, hides your conversations from surveillance, and possible wiretapping.
 
